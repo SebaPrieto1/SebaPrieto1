@@ -1,5 +1,21 @@
-### Hi there 👋
+### Hello wolrd 🤖
 
+My name is Sebastian Prieto. I'm an Electronical Engineer and a Full Stack Developer.
+
+I am enthusiastic about challenges, solving problems and continuous learning. Thanks to my engineering background, I have an advanced knowledge in logic and mathematics, which makes it easier for me to achieve efficient and creative solutions.
+
+## My stack:⁣
+
+◾	React, Redux, JavaScript, TypeScript⁣
+◾	Node, Express⁣ PostgreSQL, Sequelize, SQL⁣
+◾	C, C#
+◾ Currently learning Python ⚡
+
+## Contact me:
+◾ www.linkedin.com/in/sebastianprieto01
+◾ sebaprieto1@hotmail.com
+
+•	Git⁣
 <!--
 **SebaPrieto1/SebaPrieto1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
