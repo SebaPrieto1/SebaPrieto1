@@ -1,21 +1,41 @@
-### Hello wolrd 🤖
+![Hi, I'm Sebastian](http://drive.google.com/uc?export=view&id=14LEtIEpGbXP7-pBa5TmDco5D8h4WW3XX)
 
-My name is Sebastian Prieto. I'm an Electronical Engineer and a Full Stack Developer.
 
-I am enthusiastic about challenges, solving problems and continuous learning. Thanks to my engineering background, I have an advanced knowledge in logic and mathematics, which makes it easier for me to achieve efficient and creative solutions.
+# Hi there! :wave:
 
-## My stack:⁣
+My name is Sebastian Prieto, I'm an Electronical Engineer and a Full Stack Developer from Argentina, looking for new challenges and opportunities.
+<br />
+I am enthusiastic about solving problems and continuous learning. Thanks to my engineering background, I have an advanced knowledge in logic and mathematics, which makes it easier for me to achieve efficient and creative solutions.
 
-◾	React, Redux, JavaScript, TypeScript⁣
-◾	Node, Express⁣ PostgreSQL, Sequelize, SQL⁣
-◾	C, C#
-◾ Currently learning Python ⚡
+## My stack :page_with_curl:
 
-## Contact me:
-◾ www.linkedin.com/in/sebastianprieto01
-◾ sebaprieto1@hotmail.com
+*	React, Redux, JavaScript, TypeScript⁣
+*	Node, Express⁣ PostgreSQL, Sequelize, SQL⁣
+*	C, C#
+* Currently learning Python 🤖
 
-•	Git⁣
+## Proyects :coffee:
+
+* **[PI - Food App :fork_and_knife:](https://github.com/SebaPrieto1/PI-foods/tree/main/PI-Food-main)**
+```
+My first project as a full stack developer at Henry academy.
+Technologies:
+◾ JavaScript - React - Node.js - Redux - CSS - PostgreSQL
+```
+<hr />
+
+* **[PF - PG Escuelas :book:](https://github.com/PG-HENRY-13/PG-Escuelas)** 
+```
+Final project at Henry Academy, where I learned how to work as a team member and implemen agile methodologies(SCRUM).
+Technologies:
+◾ TypeScript - React - Node.js - Redux - CSS - PostgreSQL- Sequelize -Boostrap 
+```
+
+## Contact 📫
+* **LinkedIn:** www.linkedin.com/in/sebastianprieto01
+* **e-mail:** sebaprieto1@hotmail.com
+
+
 <!--
 **SebaPrieto1/SebaPrieto1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
