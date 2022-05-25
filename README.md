@@ -26,7 +26,7 @@ Technologies:
 
 * **[PF - PG Escuelas :book:](https://github.com/PG-HENRY-13/PG-Escuelas)** 
 ```
-Final project at Henry Academy, where I learned how to work as a team member and implemen agile methodologies(SCRUM).
+Final project at Henry Academy, where I learned how to work as a team member and implement agile methodologies(SCRUM).
 Technologies:
 ◾ TypeScript - React - Node.js - Redux - CSS - PostgreSQL- Sequelize -Boostrap 
 ```
