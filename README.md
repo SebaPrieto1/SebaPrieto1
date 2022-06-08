@@ -5,7 +5,7 @@
 
 My name is Sebastian Prieto, I'm an Electronical Engineer and a Full Stack Developer from Argentina, looking for new challenges and opportunities.
 <br />
-I am an enthusiastic about solving problems and continuous learning. Thanks to my engineering background, I have an advanced knowledge in logic and mathematics, which makes it easier for me to achieve efficient and creative solutions.
+I am an enthusiast of continuous learning and problem solving. Thanks to my engineering background, I have an advanced knowledge in logic and mathematics, which makes it easier for me to achieve efficient and creative solutions.
 
 ## My stack :page_with_curl:
 
