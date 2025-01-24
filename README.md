@@ -10,8 +10,6 @@ I am an enthusiast of continuous learning and problem solving. Thanks to my engi
 ## My stack :page_with_curl:
 
 *	Java, Node Js, Springboot, NestJs, React
-*	Node, Express⁣ PostgreSQL, Sequelize, SQL⁣
-
 
 ## Contact 📫
 * **LinkedIn:** www.linkedin.com/in/sebastianprieto01
